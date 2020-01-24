@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intention criminelle</string>
+    <string name="crime_title_hint">Entrez un titre pour le crime.</string>
+    <string name="crime_title_label">Titre</string>
+    <string name="crime_details_label">Détails</string>
+    <string name="crime_solved_label">résolu</string>
+    <string name="crime_photo_button_description">
+        Prendre une photo de la scène du crime
+    </string>
+    <string name="crime_photo_no_image_description">
+        Photo de scène de crime (non définie)
+    </string>
+    <string name="crime_photo_image_description">
+        Photo de scène de crime (définie)
+    </string>
+    <string name="new_crime">nouveau crime</string>
+    <string name="crime_suspect_text">Choisissez suspect</string>
+    <string name="crime_report_text">Envoyer un rapport de crime</string>
+    <string name="crime_report">%1$s!
+        Le crime a été découvert sur%2$s. %3$s, y %4$s
+    </string>
+    <string name="crime_report_solved">Le cas est résolu</string>
+    <string name="crime_report_unsolved">Le cas n est pas résolu</string>
+    <string name="crime_report_no_suspect">il n y a pas de suspect.</string>
+    <string name="crime_report_suspect">le suspect est %s.</string>
+    <string name="crime_report_subject">Rapport d intention criminelle</string>
+    <string name="send_report">Envoyer un rapport de crime </string>
+</resources>
